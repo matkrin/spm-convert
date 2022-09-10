@@ -22,7 +22,7 @@ If everything is set up, just run
 
 ```bash
 
-$ python2 -m pip isntall -r requirements.txt
+$ python2 -m pip install -r requirements.txt
 $ python2 -m pip install .
 
 ```

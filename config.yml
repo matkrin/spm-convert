@@ -1,0 +1,6 @@
+allowed filetypes in:
+  - .mul      # Aarhus MUL
+  - .Z_mtrx   # Omicron MATRIX
+  # - .I_mtrx   # Omicron MATRIX
+  - .sm4      # RHK Instruments SM4
+  - .sxm      # Nanonis SXM
